@@ -1,0 +1,25 @@
+{
+	"name": "basics-npm-node",
+	"version": "1.0.0",
+	"description": "module for basics node npm",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/yandre13/basics-npm-node.git"
+	},
+	"keywords": [
+		"basics",
+		"npm",
+		"node",
+		"js"
+	],
+	"author": "yandre13 <yandre13.elsf@gmail>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/yandre13/basics-npm-node/issues"
+	},
+	"homepage": "https://github.com/yandre13/basics-npm-node#readme"
+}
